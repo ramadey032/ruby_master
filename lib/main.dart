@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:master_task/dash_board.dart';
+import 'package:ruby_master/dash_board.dart';
 
 void main() => runApp(MyApp());
 
